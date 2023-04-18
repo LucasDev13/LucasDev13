@@ -13,3 +13,5 @@
 
 ## Tecnologias utilizadas no repositórios:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDev13&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## Contato: lucaspontes140@gmail.com
