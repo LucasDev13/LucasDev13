@@ -14,12 +14,4 @@
 ## Tecnologias utilizadas no repositórios:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDev13&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Portifólio
-- [Sistema para venda de ingressos](https://github.com/LucasDev13/dsmeta)
-- [SGPSI - Sistema de Gerenciamento para Psicologos ](https://github.com/LucasDev13/dsmeta)
-- [ERP - Internamento](https://github.com/LucasDev13/dsmeta)
-- [Sistema para estoque](https://github.com/LucasDev13/dsmeta)
-- [SGUTI – Sistema de Gestão de UTI Neonatal - Módumo de Balanço Hídrico](https://bitbucket.org/LucasPontes13/projetobh/src/master/)
-
-
 ## Contato: lucaspontes140@gmail.com
