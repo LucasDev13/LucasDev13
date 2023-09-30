@@ -14,4 +14,14 @@
 ## Tecnologias utilizadas no repositórios:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDev13&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Contato: lucaspontes140@gmail.com
+## Portifólio
+- [CrossSystem - Sistema para box de crossfit](https://gitlab.com/box-crossfit/check-in-cross)
+- [SGUTI – Sistema de Gestão de UTI Neonatal - Módumo de Balanço Hídrico](https://bitbucket.org/LucasPontes13/projetobh/src/master/)
+- [Sistema para venda de ingressos]()
+- [SGPSI - Sistema de Gerenciamento para Psicologos ]()
+- [ERP - Internamento]()
+- [Sistema para estoque]()
+
+## Contato: 
+### lucaspontes140@gmail.com
+### https://www.linkedin.com/in/pontes-lucas/
