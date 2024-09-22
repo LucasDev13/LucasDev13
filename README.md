@@ -20,8 +20,8 @@
 - [SGUTI – Sistema de Gestão de UTI Neonatal - Módumo de Balanço Hídrico](https://bitbucket.org/LucasPontes13/projetobh/src/master/)
 - [Sistema para venda de ingressos]()
 - [SGPSI - Sistema de Gerenciamento para Psicologos ]()
-- [ERP - Internamento]()
-- [Sistema para estoque]()
+- [SGH - Internamento](https://gitlab.com/h4044/internamento)
+- [SGH - Estoque](https://gitlab.com/h4044/estoque)
 
 ## Contato: 
 ### lucaspontes140@gmail.com
