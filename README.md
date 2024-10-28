@@ -14,7 +14,7 @@
 ## Tecnologias utilizadas no repositórios:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDev13&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Portifólio
+## Lista de projetos
 - [Biblioteca Elotech - Projeto desenvolvido para o desafio técnico da empresa Elotech](https://github.com/LucasDev13/biblioteca-elo)
 - [Hotel Senior - Projeto desenvolvido para desafio tecnico na empresa senior](https://github.com/LucasDev13/hotel-senior)
 - [CrossSystem - Sistema para box de crossfit](https://gitlab.com/box-crossfit/check-in-cross)
@@ -24,6 +24,6 @@
 - [SGH - Internamento](https://gitlab.com/h4044/internamento)
 - [SGH - Estoque](https://gitlab.com/h4044/estoque)
 
-## Contato: 
+## Contatos: 
 ### lucaspontes140@gmail.com
 ### https://www.linkedin.com/in/pontes-lucas/
